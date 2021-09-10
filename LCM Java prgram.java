@@ -21,5 +21,5 @@ class GFG {
             // odd
             System.out.println("Entered Number is Odd");
         }
-    }
+    }}}
 }
